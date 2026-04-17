@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi, I'm Franklin 👋
 
-<!--
-**Frankyangz/Frankyangz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MA student in Digital Studies at UChicago, pivoting from a background 
+in cinema and media production toward building AI-powered tools for creators 
+and researchers.
 
-Here are some ideas to get you started:
+**Currently:**
+- 🎓 Studying machine learning, data visualization, and AI writing tools at UChicago (grad '26)
+- 🛠️ Building web apps with SvelteKit, Tailwind, and the OCHRE research API
+- 🎬 Drawing on 4+ years of video production and live broadcast experience
+- 🌏 Bilingual: English & Mandarin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Coursework highlights:** Active Representation Learning (CMSC 35401),
+Writing with AI (CMSC 33231), Statistics with Python, Game Design with Unity
+
+**Previously:** HR @ Fuyao Glass · Video Producer @ Big Ten Network, 
+Oner Media, Fujian Media Group
+
+**Looking for:** Full-time roles in applied AI, developer tools, or 
+AI-for-creative-industries starting June 2026. STEM OPT eligible (3 years 
+of US work authorization).
+
+📫 franklinzhang068@gmail.com · 
+[LinkedIn](https://www.linkedin.com/in/yang-zhang-a2b00b2b1)
