@@ -13,9 +13,6 @@ and researchers.
 **Coursework highlights:** Active Representation Learning (CMSC 35401),
 Writing with AI (CMSC 33231), Statistics with Python, Game Design with Unity
 
-**Previously:** HR @ Fuyao Glass · Video Producer @ Big Ten Network, 
-Oner Media, Fujian Media Group
-
 **Looking for:** Full-time roles in applied AI, developer tools, or 
 AI-for-creative-industries starting June 2026.
 
