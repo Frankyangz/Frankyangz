@@ -14,7 +14,7 @@ and researchers.
 Writing with AI (CMSC 33231), Statistics with Python, Game Design with Unity
 
 **Looking for:** Full-time roles in applied AI, developer tools, or 
-AI-for-creative-industries starting June 2026.
+AI-for-creative-industries starting August 2026.
 
 📫 franklinzhang068@gmail.com · 
 [LinkedIn](https://www.linkedin.com/in/yang-zhang-a2b00b2b1)
